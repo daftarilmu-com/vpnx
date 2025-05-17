@@ -1615,11 +1615,11 @@ class Document {
       proxyGroupElement += `  <div class="flex flex-col gap-2 mt-3 text-sm">`;
       for (let x = 0; x < proxyData.list.length; x++) {
         const indexName = [
-          `${reverse("NAJORT")} TLS`,
-          `${reverse("SSELV")} TLS`,
+          `${reverse("RT")} TLS`,
+          `${reverse("LV")} TLS`,
           `${reverse("SS")} TLS`,
-          `${reverse("NAJORT")} NTLS`,
-          `${reverse("SSELV")} NTLS`,
+          `${reverse("RT")} NTLS`,
+          `${reverse("LV")} NTLS`,
           `${reverse("SS")} NTLS`,
         ];
         const proxy = proxyData.list[x];
