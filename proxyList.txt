@@ -1,4 +1,3 @@
-
 38.244.147.75,443,ID,Coggx
 43.218.77.16,1443,ID,Amazon.com
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
@@ -8,6 +7,7 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telkom Indonesia
 203.194.112.119,8443,ID,CV Rumahweb Indonesia
+203.194.112.119,2053,ID,Rumahweb 2
 35.219.50.99,443,ID,Google LLC
 8.215.196.18,587,ID,Alibaba
 172.232.239.249,587,ID,Akamai Connected Cloud
