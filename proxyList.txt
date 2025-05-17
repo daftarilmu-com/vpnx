@@ -1,4 +1,4 @@
-167.88.172.198,443,SG,Cloudzy
+
 38.244.147.75,443,ID,Coggx
 43.218.77.16,1443,ID,Amazon.com
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
@@ -11,6 +11,7 @@
 35.219.50.99,443,ID,Google LLC
 8.215.196.18,587,ID,Alibaba
 172.232.239.249,587,ID,Akamai Connected Cloud
+167.88.172.198,443,SG,Cloudzy
 129.150.58.86,57621,SG,Oracle Cloud
 146.235.18.248,45137,SG,Oracle Cloud
 51.79.158.126,443,SG,OVH Hosting
