@@ -11,6 +11,9 @@ custom_domain = true
 [[routes]] 
 pattern = "df.game.naver.com.vpnx.aurorasticker.space" 
 custom_domain = true
+[[routes]] 
+pattern = "prem.vpnx.aurorasticker.space" 
+custom_domain = true 
 
 
 [unsafe.metadata.observability]
