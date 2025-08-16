@@ -1,3 +1,4 @@
+103.197.189.133,443,ID,Ekadata
 38.244.147.75,443,ID,Coggx
 43.218.77.16,1443,ID,Amazon.com
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
