@@ -1,16 +1,8 @@
-name = "vpnz"
+name = "npv"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat_v2"]
-[[routes]] 
-pattern = "vpnz.aurorasticker.space" 
-custom_domain = true 
-[[routes]] 
-pattern = "ava.game.naver.com.vpnz.aurorasticker.space" 
-custom_domain = true
-[[routes]] 
-pattern = "df.game.naver.com.vpnz.aurorasticker.space" 
-custom_domain = true 
+
 
 
 [unsafe.metadata.observability]
